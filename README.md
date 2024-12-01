@@ -1,6 +1,6 @@
 # FIFA Scoreline Trivia Analysis
 
-This repository explores a quirky piece of football trivia: when the abbreviations of two international football teams' FIFA codes combine to spell the full name of a country. We analyze historical football matches to identify and highlight these rare occurrences.
+This repository explores a quirky piece of football trivia: when the abbreviations of two international football teams' FIFA codes combine to spell the full name of a country. We analyse historical football matches to identify and highlight these rare occurrences.
 
 ## Project Overview
 
@@ -20,7 +20,7 @@ To identify historical matches where the concatenated FIFA codes of the home and
 ## Methodology
 
 1. **Data Sources**
-   - **`country_codes.csv`**: List of all FIFA-recognized countries, their FIFA and IOC codes, and regions.
+   - **`country_codes.csv`**: List of all FIFA-recognised countries, their FIFA and IOC codes, and regions.
    - **`results.csv`**: Historical dataset of international football matches, including dates, teams, and scores.
 
 2. **Analysis Steps**
@@ -37,7 +37,7 @@ To identify historical matches where the concatenated FIFA codes of the home and
 - **`results.csv`**: Historical match data.
 - **`analysis.py`**: Python script to:
   - Identify full names formed by FIFA codes.
-  - Analyze historical matches for these conditions.
+  - Analyse historical matches for these conditions.
   - Output matches where the condition is met.
 - **`README.md`**: Project summary and instructions.
 

@@ -66,13 +66,6 @@ To identify historical matches where the concatenated FIFA codes of the home and
 
 ---
 
-## Trivia
-
-- **SWEDEN** (SWE-DEN) have played a multitude of times, and is by far the most common redundant scoreboard.
-- **BHUTAN** (BHU-TAN) remains unfulfilled, as Bhutan and Tanzania have never played each other. Let's make it happen!
-
----
-
 ## Acknowledgements
 
 Thanks to [FIFA](https://www.fifa.com/) and other public datasets (most notably [this Kaggle dataset](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/data?select=results.csv) and the [Rec.Sport.Soccer Statistics Foundation](https://www.rsssf.org/miscellaneous/fifa-codes.html)) for providing the necessary data to make this project possible.

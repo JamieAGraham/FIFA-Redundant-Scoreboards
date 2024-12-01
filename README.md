@@ -12,6 +12,8 @@ To identify historical matches where the concatenated FIFA codes of the home and
 - Historical matches, such as Sweden (SWE) vs. Denmark (DEN), resulted in the scoreline spelling **SWEDEN**.
 - However, **Bhutan (BHU)** and **Tanzania (TAN)**—which spell **BHUTAN**—have *never* faced each other in recorded history. (#TANtoThimphu)
 - **Cyprus (CYP)** - **Russia (RUS)** (**CYP-RUS**) and **Poland (POL)** - **Andorra (AND)** (**POL-AND**) have both occurred in World Cup qualification rounds.
+- The country whose name is spelled out is always at home (sad times).
+- Countries whose names are shorter than 6 characters are common enough to make this trivial and boring (looking at you Cuba and any country starting with A...)
 
 ---
 

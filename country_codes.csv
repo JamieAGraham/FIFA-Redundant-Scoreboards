@@ -1,0 +1,253 @@
+Country,FIFA,IOC,Region,Active
+Afghanistan,AFG,AFG,Asia,True
+Albania,ALB,ALB,Europe,True
+Algeria,ALG,ALG,Africa,True
+American Samoa,ASA,ASA,Oceania,True
+Andorra,AND,AND,Europe,True
+Angola,ANG,ANG,Africa,True
+Anguilla,AIA,-----,North America,True
+Antigua & Barbuda,ATG,ANT,North America,True
+Argentina,ARG,ARG,South America,True
+Armenia,ARM,ARM,Europe,True
+Aruba,ARU,ARU,North America,True
+Australia,AUS,-----,Asia,True
+Austria,AUT,AUT,Europe,True
+Azerbaijan,AZE,AZE,Europe,True
+Bahamas,BAH,BAH,North America,True
+Bahrain,BHR,BRN,Asia,True
+Bangladesh,BAN,BAN,Asia,True
+Barbados,BRB,BAR,North America,True
+Belarus,BLR,BLR,Europe,True
+Belgium,BEL,BEL,Europe,True
+Belize,BLZ,BIZ,North America,True
+Benin,BEN,BEN,Africa,True
+Bermuda,BER,BER,North America,True
+Bhutan,BHU,BHU,Asia,True
+Bohemia (Later Czechoslovakia),BOH,BOH,,False
+Bolivia,BOL,BOL,South America,True
+Bosnia Herzegovina,BIH,BIH,Europe,True
+Botswana,BOT,BOT,Africa,True
+Brazil,BRA,BRA,South America,True
+British Virgin Islands,VGB,IVB,North America,True
+Brunei Darussalam,BRU,BRU,Asia,True
+Bulgaria,BUL,BUL,Europe,True
+Burkina Faso,BFA,BUR,Africa,True
+Burma (Today Myanmar),BUR,BIR,,False
+Burundi,BDI,BDI,Africa,True
+Cambodia,CAM,CAM,Asia,True
+Cameroon,CMR,CMR,Africa,True
+Canada,CAN,CAN,North America,True
+Cape Verde Islands,CPV,CPV,Africa,True
+Cayman Islands,CAY,CAY,North America,True
+Central African Republic,CTA,CAF,Africa,True
+Ceylon (Today Sri Lanka),CEY,CEY,,False
+Chad,CHA,CHA,Africa,True
+Chile,CHI,CHI,South America,True
+China PR,CHN,CHN,Asia,True
+Chinese Taipei,TPE,TPE,Asia,True
+Colombia,COL,COL,South America,True
+Commonwealth of Independent States,CIS,EUN,,False
+Comoros Islands,COM,COM,Africa,True
+Congo,CGO,CGO,Africa,True
+Congo DR (Zaire),COD,COD,Africa,True
+Congo-Brazzaville (Today Congo),COB,---,,False
+Congo-Kinshasa (Later Zaire),CKN,COD,,False
+Cook Islands,COK,COK,Oceania,True
+Costa Rica,CRC,CRC,North America,True
+Cote d’Ivoire,CIV,CIV,Africa,True
+Country/Independent State,FIFA,IOC,,True
+Croatia,CRO,CRO,Europe,True
+Cuba,CUB,CUB,North America,True
+Curacao,CUR,---,,False
+Curaçao,CUW,-----,North America,True
+Cyprus,CYP,CYP,Europe,True
+Czech Republic,CZE,TCH,Europe,True
+Czechoslovakia,TCH,TCH,,False
+Czechoslovakia * (See Below),TCH,CSV,,False
+Dahomey (Today Benin),DAH,DAH,,False
+Denmark,DEN,DEN,Europe,True
+Djibouti,DJI,DJI,Africa,True
+Dominica,DMA,DMA,North America,True
+Dominican Republic,DOM,DOM,North America,True
+Dutch East Indies (Today Indonesia),DEI,IHO,,False
+East Germany,DDR,GDR,,False
+East Timor,TLS,TLS,Asia,True
+Ecuador,ECU,ECU,South America,True
+Egypt,EGY,EGY,Africa,True
+El Salvador,SLV,ESA,North America,True
+England,ENG,-----,Europe,True
+Equatorial Guinea,EQG,GEQ,Africa,True
+Eritrea,ERI,ERI,Africa,True
+Estonia,EST,EST,Europe,True
+Ethiopia,ETH,ETH,Africa,True
+Faeroe Islands,FRO,-----,Europe,True
+Fiji,FIJ,FIJ,Oceania,True
+Finland,FIN,FIN,Europe,True
+France,FRA,FRA,Europe,True
+Gabon,GAB,GAB,Africa,True
+Gambia,GAM,GAM,Africa,True
+Georgia,GEO,GEO,Europe,True
+Germany,GER,GER,Europe,True
+Ghana,GHA,GHA,Africa,True
+Gibraltar,GIB,-----,Europe,True
+Great Britain,-----,GBR,Europe,True
+Greece,GRE,GRE,Europe,True
+Grenada,GRN,GRN,North America,True
+Guam,GUM,-----,Asia,True
+Guatemala,GUA,GUA,North America,True
+Guinea,GUI,GUI,Africa,True
+Guinea-Bissau,GNB,GBS,Africa,True
+Guyana,GUY,GUY,North America,True
+Haiti,HAI,HAI,North America,True
+Holland,NED,NED,Europe,True
+Honduras,HON,HON,North America,True
+Hong Kong,HKG,HKG,Asia,True
+Hungary,HUN,HUN,Europe,True
+Iceland,ISL,ISL,Europe,True
+India,IND,IND,Asia,True
+Indonesia,IDN,INA,Asia,True
+Iran,IRN,IRI,Asia,True
+Iraq,IRQ,IRQ,Asia,True
+Israel,ISR,ISR,Europe,True
+Italy,ITA,ITA,Europe,True
+Jamaica,JAM,JAM,North America,True
+Japan,JPN,JPN,Asia,True
+Jordan,JOR,JOR,Asia,True
+Kazakhstan,KAZ,KAZ,Europe,True
+Kenya,KEN,KEN,Africa,True
+Kiribati,-----,KIR,Oceania,True
+Korea DPR,PRK,PRK,Asia,True
+Korea Republic,KOR,KOR,Asia,True
+Kosovo,KVX,KOS,Europe,True
+Kuwait,KUW,KUW,Asia,True
+Kyrgyzstan,KGZ,KGZ,Asia,True
+Laos,LAO,LAO,Asia,True
+Latvia,LVA,LAT,Europe,True
+Lebanon,LBN,LBN,Asia,True
+Lesotho,LES,LES,Africa,True
+Liberia,LBR,LBR,Africa,True
+Libya,LBY,LBA,Africa,True
+Liechtenstein,LIE,LIE,Europe,True
+Lithuania,LTU,LTU,Europe,True
+Luxembourg,LUX,LUX,Europe,True
+Macao,MAC,-----,Asia,True
+Macedonia FYR,MKD,MKD,Europe,True
+Madagascar,MAD,MAD,Africa,True
+Malawi,MWI,MAL,Africa,True
+Malaysia,MAS,MAS,Asia,True
+Maldives,MDV,MDV,Asia,True
+Mali,MLI,MLI,Africa,True
+Malta,MLT,MLT,Europe,True
+Marshall Islands,-----,MHL,Oceania,True
+Mauritania,MTN,MTN,Africa,True
+Mauritius,MRI,MRI,Africa,True
+Mexico,MEX,MEX,North America,True
+Micronesia,-----,FSM,Oceania,True
+Moldova,MDA,MDA,Europe,True
+Monaco,-----,MON,Europe,True
+Mongolia,MGL,MGL,Asia,True
+Montenegro,MNE,MNE,Europe,True
+Montserrat,MSR,-----,North America,True
+Morocco,MAR,MAR,Africa,True
+Mozambique,MOZ,MOZ,Africa,True
+Myanmar,MYA,MYA,Asia,True
+Namibia,NAM,NAM,Africa,True
+Nauru,-----,NRU,Oceania,True
+Nepal,NEP,NEP,Asia,True
+Netherland Antilles,ANT,AHO,,False
+New Caledonia,NCL,-----,Oceania,True
+New Hebrides (Today Vanuatu),HEB,---,,False
+New Zealand,NZL,NZL,Oceania,True
+Nicaragua,NCA,NCA,North America,True
+Niger,NIG,NIG,Africa,True
+Nigeria,NGA,NGR,Africa,True
+North Vietnam,VNO,---,,False
+North Yemen,NYE,YAR,,False
+Northern Ireland,NIR,-----,Europe,True
+Norway,NOR,NOR,Europe,True
+Oman,OMA,OMA,Asia,True
+Pakistan,PAK,PAK,Asia,True
+Palau,-----,PLW,Oceania,True
+Palestine,PAL,PLE,Asia,True
+Palestine (Today Israel/Jordan),PAL,PAL,,False
+Panama,PAN,PAN,North America,True
+Papua New Guinea,PNG,PNG,Oceania,True
+Paraguay,PAR,PAR,South America,True
+Peru,PER,PER,South America,True
+Philippines,PHI,PHI,Asia,True
+Poland,POL,POL,Europe,True
+Portugal,POR,POR,Europe,True
+Puerto Rico,PUR,PUR,North America,True
+Qatar,QAT,QAT,Asia,True
+Republic of Ireland,IRL,IRL,Europe,True
+Rhodesia (Today Zimbabwe),RHO,RHO,,False
+Romania,ROU,ROU,Europe,True
+Russia,RUS,RUS,Europe,True
+Rwanda,RWA,RWA,Africa,True
+Saarland,SAA,SAA,,False
+Samoa,SAM,SAM,Oceania,True
+San Marino,SMR,SMR,Europe,True
+Sao Tome e Principe,STP,STP,Africa,True
+Saudi Arabia,KSA,KSA,Asia,True
+Scotland,SCO,-----,Europe,True
+Senegal,SEN,SEN,Africa,True
+Serbia,SRB,SRB,Europe,True
+Serbia & Montenegro,SCG,SCG,,False
+Seychelles,SEY,SEY,Africa,True
+Sierra Leone,SLE,SLE,Africa,True
+Singapore,SIN,SIN,Asia,True
+Slovakia,SVK,SVK,Europe,True
+Slovenia,SVN,SLO,Europe,True
+Solomon Islands,SOL,SOL,Oceania,True
+Somalia,SOM,SOM,Africa,True
+South Africa,RSA,RSA,Africa,True
+South Sudan,SSD,SSD,Africa,True
+South Vietnam,VSO,VIE,,False
+South Yemen,SYE,YMD,,False
+Soviet Union,URS,URS,,False
+Spain,ESP,ESP,Europe,True
+Sri Lanka,SRI,SRI,Asia,True
+St Kitts & Nevis,SKN,SKN,North America,True
+St Lucia,LCA,LCA,North America,True
+St Vincent & The Grenadines,VIN,VIN,North America,True
+Sudan,SDN,SUD,Africa,True
+Surinam,SUR,SUR,North America,True
+Swaziland,SWZ,SWZ,Africa,True
+Sweden,SWE,SWE,Europe,True
+Switzerland,SUI,SUI,Europe,True
+Syria,SYR,SYR,Asia,True
+Tahiti,TAH,-----,Oceania,True
+Taiwan (Today Chinese Taipei),TAI,TAI,,False
+Tajikistan,TJK,TJK,Asia,True
+Tanganyika (Today part of Tanzania),TAA,TAN,,False
+Tanzania,TAN,TAN,Africa,True
+Thailand,THA,THA,Asia,True
+Togo,TOG,TOG,Africa,True
+Tonga,TGA,TGA,Oceania,True
+Trinidad & Tobago,TRI,TRI,North America,True
+Tunisia,TUN,TUN,Africa,True
+Turkey,TUR,TUR,Europe,True
+Turkmenistan,TKM,TKM,Asia,True
+Turks & Caicos Islands,TCA,-----,North America,True
+Tuvalu,-----,TUV,Oceania,True
+Uganda,UGA,UGA,Africa,True
+Ukraine,UKR,UKR,Europe,True
+United Arab Emirates,UAE,UAE,Asia,True
+United Arab Republic,UAR,RAU,,False
+United States Virgin Islands,VIR,ISV,North America,True
+United States of America,USA,USA,North America,True
+Upper Volta (Today Burkina Faso),UPV,UPV,,False
+Uruguay,URU,URU,South America,True
+Uzbekistan,UZB,UZB,Asia,True
+Vanuatu,VAN,VAN,Oceania,True
+Vatican,-----,VAT,Europe,True
+Venezuela,VEN,VEN,South America,True
+Vietnam,VIE,VIE,Asia,True
+Wales,WAL,-----,Europe,True
+West Germany,FRG,FRG,,False
+Western Samoa (Today Samoa),WSM,SAM,,False
+Yemen,YEM,YEM,Asia,True
+Yugoslavia,YUG,YUG,,False
+Zaire (Today Congo DR),ZAI,ZAI,,False
+Zambia,ZAM,ZAM,Africa,True
+Zimbabwe,ZIM,ZIM,Africa,True

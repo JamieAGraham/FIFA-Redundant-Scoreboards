@@ -1,0 +1,1514 @@
+{
+    "Afghanistan": {
+        "FIFA": "AFG",
+        "IOC": "AFG",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Albania": {
+        "FIFA": "ALB",
+        "IOC": "ALB",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Algeria": {
+        "FIFA": "ALG",
+        "IOC": "ALG",
+        "Region": "Africa",
+        "Active": true
+    },
+    "American Samoa": {
+        "FIFA": "ASA",
+        "IOC": "ASA",
+        "Region": "Oceania",
+        "Active": true
+    },
+    "Andorra": {
+        "FIFA": "AND",
+        "IOC": "AND",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Angola": {
+        "FIFA": "ANG",
+        "IOC": "ANG",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Anguilla": {
+        "FIFA": "AIA",
+        "IOC": "-----",
+        "Region": "North America",
+        "Active": true
+    },
+    "Antigua & Barbuda": {
+        "FIFA": "ATG",
+        "IOC": "ANT",
+        "Region": "North America",
+        "Active": true
+    },
+    "Argentina": {
+        "FIFA": "ARG",
+        "IOC": "ARG",
+        "Region": "South America",
+        "Active": true
+    },
+    "Armenia": {
+        "FIFA": "ARM",
+        "IOC": "ARM",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Aruba": {
+        "FIFA": "ARU",
+        "IOC": "ARU",
+        "Region": "North America",
+        "Active": true
+    },
+    "Australia": {
+        "FIFA": "AUS",
+        "IOC": "-----",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Austria": {
+        "FIFA": "AUT",
+        "IOC": "AUT",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Azerbaijan": {
+        "FIFA": "AZE",
+        "IOC": "AZE",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Bahamas": {
+        "FIFA": "BAH",
+        "IOC": "BAH",
+        "Region": "North America",
+        "Active": true
+    },
+    "Bahrain": {
+        "FIFA": "BHR",
+        "IOC": "BRN",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Bangladesh": {
+        "FIFA": "BAN",
+        "IOC": "BAN",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Barbados": {
+        "FIFA": "BRB",
+        "IOC": "BAR",
+        "Region": "North America",
+        "Active": true
+    },
+    "Belarus": {
+        "FIFA": "BLR",
+        "IOC": "BLR",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Belgium": {
+        "FIFA": "BEL",
+        "IOC": "BEL",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Belize": {
+        "FIFA": "BLZ",
+        "IOC": "BIZ",
+        "Region": "North America",
+        "Active": true
+    },
+    "Benin": {
+        "FIFA": "BEN",
+        "IOC": "BEN",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Bermuda": {
+        "FIFA": "BER",
+        "IOC": "BER",
+        "Region": "North America",
+        "Active": true
+    },
+    "Bhutan": {
+        "FIFA": "BHU",
+        "IOC": "BHU",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Bohemia (Later Czechoslovakia)": {
+        "FIFA": "BOH",
+        "IOC": "BOH",
+        "Region": null,
+        "Active": false
+    },
+    "Bolivia": {
+        "FIFA": "BOL",
+        "IOC": "BOL",
+        "Region": "South America",
+        "Active": true
+    },
+    "Bosnia Herzegovina": {
+        "FIFA": "BIH",
+        "IOC": "BIH",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Botswana": {
+        "FIFA": "BOT",
+        "IOC": "BOT",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Brazil": {
+        "FIFA": "BRA",
+        "IOC": "BRA",
+        "Region": "South America",
+        "Active": true
+    },
+    "British Virgin Islands": {
+        "FIFA": "VGB",
+        "IOC": "IVB",
+        "Region": "North America",
+        "Active": true
+    },
+    "Brunei Darussalam": {
+        "FIFA": "BRU",
+        "IOC": "BRU",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Bulgaria": {
+        "FIFA": "BUL",
+        "IOC": "BUL",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Burkina Faso": {
+        "FIFA": "BFA",
+        "IOC": "BUR",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Burma (Today Myanmar)": {
+        "FIFA": "BUR",
+        "IOC": "BIR",
+        "Region": null,
+        "Active": false
+    },
+    "Burundi": {
+        "FIFA": "BDI",
+        "IOC": "BDI",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Cambodia": {
+        "FIFA": "CAM",
+        "IOC": "CAM",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Cameroon": {
+        "FIFA": "CMR",
+        "IOC": "CMR",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Canada": {
+        "FIFA": "CAN",
+        "IOC": "CAN",
+        "Region": "North America",
+        "Active": true
+    },
+    "Cape Verde Islands": {
+        "FIFA": "CPV",
+        "IOC": "CPV",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Cayman Islands": {
+        "FIFA": "CAY",
+        "IOC": "CAY",
+        "Region": "North America",
+        "Active": true
+    },
+    "Central African Republic": {
+        "FIFA": "CTA",
+        "IOC": "CAF",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Ceylon (Today Sri Lanka)": {
+        "FIFA": "CEY",
+        "IOC": "CEY",
+        "Region": null,
+        "Active": false
+    },
+    "Chad": {
+        "FIFA": "CHA",
+        "IOC": "CHA",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Chile": {
+        "FIFA": "CHI",
+        "IOC": "CHI",
+        "Region": "South America",
+        "Active": true
+    },
+    "China PR": {
+        "FIFA": "CHN",
+        "IOC": "CHN",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Chinese Taipei": {
+        "FIFA": "TPE",
+        "IOC": "TPE",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Colombia": {
+        "FIFA": "COL",
+        "IOC": "COL",
+        "Region": "South America",
+        "Active": true
+    },
+    "Commonwealth of Independent States": {
+        "FIFA": "CIS",
+        "IOC": "EUN",
+        "Region": null,
+        "Active": false
+    },
+    "Comoros Islands": {
+        "FIFA": "COM",
+        "IOC": "COM",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Congo": {
+        "FIFA": "CGO",
+        "IOC": "CGO",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Congo DR (Zaire)": {
+        "FIFA": "COD",
+        "IOC": "COD",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Congo-Brazzaville (Today Congo)": {
+        "FIFA": "COB",
+        "IOC": "---",
+        "Region": null,
+        "Active": false
+    },
+    "Congo-Kinshasa (Later Zaire)": {
+        "FIFA": "CKN",
+        "IOC": "COD",
+        "Region": null,
+        "Active": false
+    },
+    "Cook Islands": {
+        "FIFA": "COK",
+        "IOC": "COK",
+        "Region": "Oceania",
+        "Active": true
+    },
+    "Costa Rica": {
+        "FIFA": "CRC",
+        "IOC": "CRC",
+        "Region": "North America",
+        "Active": true
+    },
+    "Cote d\u2019Ivoire": {
+        "FIFA": "CIV",
+        "IOC": "CIV",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Country/Independent State": {
+        "FIFA": "FIFA",
+        "IOC": "IOC",
+        "Region": null,
+        "Active": true
+    },
+    "Croatia": {
+        "FIFA": "CRO",
+        "IOC": "CRO",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Cuba": {
+        "FIFA": "CUB",
+        "IOC": "CUB",
+        "Region": "North America",
+        "Active": true
+    },
+    "Curacao": {
+        "FIFA": "CUR",
+        "IOC": "---",
+        "Region": null,
+        "Active": false
+    },
+    "Cura\u00e7ao": {
+        "FIFA": "CUW",
+        "IOC": "-----",
+        "Region": "North America",
+        "Active": true
+    },
+    "Cyprus": {
+        "FIFA": "CYP",
+        "IOC": "CYP",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Czech Republic": {
+        "FIFA": "CZE",
+        "IOC": "TCH",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Czechoslovakia": {
+        "FIFA": "TCH",
+        "IOC": "TCH",
+        "Region": null,
+        "Active": false
+    },
+    "Czechoslovakia * (See Below)": {
+        "FIFA": "TCH",
+        "IOC": "CSV",
+        "Region": null,
+        "Active": false
+    },
+    "Dahomey (Today Benin)": {
+        "FIFA": "DAH",
+        "IOC": "DAH",
+        "Region": null,
+        "Active": false
+    },
+    "Denmark": {
+        "FIFA": "DEN",
+        "IOC": "DEN",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Djibouti": {
+        "FIFA": "DJI",
+        "IOC": "DJI",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Dominica": {
+        "FIFA": "DMA",
+        "IOC": "DMA",
+        "Region": "North America",
+        "Active": true
+    },
+    "Dominican Republic": {
+        "FIFA": "DOM",
+        "IOC": "DOM",
+        "Region": "North America",
+        "Active": true
+    },
+    "Dutch East Indies (Today Indonesia)": {
+        "FIFA": "DEI",
+        "IOC": "IHO",
+        "Region": null,
+        "Active": false
+    },
+    "East Germany": {
+        "FIFA": "DDR",
+        "IOC": "GDR",
+        "Region": null,
+        "Active": false
+    },
+    "East Timor": {
+        "FIFA": "TLS",
+        "IOC": "TLS",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Ecuador": {
+        "FIFA": "ECU",
+        "IOC": "ECU",
+        "Region": "South America",
+        "Active": true
+    },
+    "Egypt": {
+        "FIFA": "EGY",
+        "IOC": "EGY",
+        "Region": "Africa",
+        "Active": true
+    },
+    "El Salvador": {
+        "FIFA": "SLV",
+        "IOC": "ESA",
+        "Region": "North America",
+        "Active": true
+    },
+    "England": {
+        "FIFA": "ENG",
+        "IOC": "-----",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Equatorial Guinea": {
+        "FIFA": "EQG",
+        "IOC": "GEQ",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Eritrea": {
+        "FIFA": "ERI",
+        "IOC": "ERI",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Estonia": {
+        "FIFA": "EST",
+        "IOC": "EST",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Ethiopia": {
+        "FIFA": "ETH",
+        "IOC": "ETH",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Faeroe Islands": {
+        "FIFA": "FRO",
+        "IOC": "-----",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Fiji": {
+        "FIFA": "FIJ",
+        "IOC": "FIJ",
+        "Region": "Oceania",
+        "Active": true
+    },
+    "Finland": {
+        "FIFA": "FIN",
+        "IOC": "FIN",
+        "Region": "Europe",
+        "Active": true
+    },
+    "France": {
+        "FIFA": "FRA",
+        "IOC": "FRA",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Gabon": {
+        "FIFA": "GAB",
+        "IOC": "GAB",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Gambia": {
+        "FIFA": "GAM",
+        "IOC": "GAM",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Georgia": {
+        "FIFA": "GEO",
+        "IOC": "GEO",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Germany": {
+        "FIFA": "GER",
+        "IOC": "GER",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Ghana": {
+        "FIFA": "GHA",
+        "IOC": "GHA",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Gibraltar": {
+        "FIFA": "GIB",
+        "IOC": "-----",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Great Britain": {
+        "FIFA": "-----",
+        "IOC": "GBR",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Greece": {
+        "FIFA": "GRE",
+        "IOC": "GRE",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Grenada": {
+        "FIFA": "GRN",
+        "IOC": "GRN",
+        "Region": "North America",
+        "Active": true
+    },
+    "Guam": {
+        "FIFA": "GUM",
+        "IOC": "-----",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Guatemala": {
+        "FIFA": "GUA",
+        "IOC": "GUA",
+        "Region": "North America",
+        "Active": true
+    },
+    "Guinea": {
+        "FIFA": "GUI",
+        "IOC": "GUI",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Guinea-Bissau": {
+        "FIFA": "GNB",
+        "IOC": "GBS",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Guyana": {
+        "FIFA": "GUY",
+        "IOC": "GUY",
+        "Region": "North America",
+        "Active": true
+    },
+    "Haiti": {
+        "FIFA": "HAI",
+        "IOC": "HAI",
+        "Region": "North America",
+        "Active": true
+    },
+    "Holland": {
+        "FIFA": "NED",
+        "IOC": "NED",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Honduras": {
+        "FIFA": "HON",
+        "IOC": "HON",
+        "Region": "North America",
+        "Active": true
+    },
+    "Hong Kong": {
+        "FIFA": "HKG",
+        "IOC": "HKG",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Hungary": {
+        "FIFA": "HUN",
+        "IOC": "HUN",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Iceland": {
+        "FIFA": "ISL",
+        "IOC": "ISL",
+        "Region": "Europe",
+        "Active": true
+    },
+    "India": {
+        "FIFA": "IND",
+        "IOC": "IND",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Indonesia": {
+        "FIFA": "IDN",
+        "IOC": "INA",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Iran": {
+        "FIFA": "IRN",
+        "IOC": "IRI",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Iraq": {
+        "FIFA": "IRQ",
+        "IOC": "IRQ",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Israel": {
+        "FIFA": "ISR",
+        "IOC": "ISR",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Italy": {
+        "FIFA": "ITA",
+        "IOC": "ITA",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Jamaica": {
+        "FIFA": "JAM",
+        "IOC": "JAM",
+        "Region": "North America",
+        "Active": true
+    },
+    "Japan": {
+        "FIFA": "JPN",
+        "IOC": "JPN",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Jordan": {
+        "FIFA": "JOR",
+        "IOC": "JOR",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Kazakhstan": {
+        "FIFA": "KAZ",
+        "IOC": "KAZ",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Kenya": {
+        "FIFA": "KEN",
+        "IOC": "KEN",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Kiribati": {
+        "FIFA": "-----",
+        "IOC": "KIR",
+        "Region": "Oceania",
+        "Active": true
+    },
+    "Korea DPR": {
+        "FIFA": "PRK",
+        "IOC": "PRK",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Korea Republic": {
+        "FIFA": "KOR",
+        "IOC": "KOR",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Kosovo": {
+        "FIFA": "KVX",
+        "IOC": "KOS",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Kuwait": {
+        "FIFA": "KUW",
+        "IOC": "KUW",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Kyrgyzstan": {
+        "FIFA": "KGZ",
+        "IOC": "KGZ",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Laos": {
+        "FIFA": "LAO",
+        "IOC": "LAO",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Latvia": {
+        "FIFA": "LVA",
+        "IOC": "LAT",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Lebanon": {
+        "FIFA": "LBN",
+        "IOC": "LBN",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Lesotho": {
+        "FIFA": "LES",
+        "IOC": "LES",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Liberia": {
+        "FIFA": "LBR",
+        "IOC": "LBR",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Libya": {
+        "FIFA": "LBY",
+        "IOC": "LBA",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Liechtenstein": {
+        "FIFA": "LIE",
+        "IOC": "LIE",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Lithuania": {
+        "FIFA": "LTU",
+        "IOC": "LTU",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Luxembourg": {
+        "FIFA": "LUX",
+        "IOC": "LUX",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Macao": {
+        "FIFA": "MAC",
+        "IOC": "-----",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Macedonia FYR": {
+        "FIFA": "MKD",
+        "IOC": "MKD",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Madagascar": {
+        "FIFA": "MAD",
+        "IOC": "MAD",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Malawi": {
+        "FIFA": "MWI",
+        "IOC": "MAL",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Malaysia": {
+        "FIFA": "MAS",
+        "IOC": "MAS",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Maldives": {
+        "FIFA": "MDV",
+        "IOC": "MDV",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Mali": {
+        "FIFA": "MLI",
+        "IOC": "MLI",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Malta": {
+        "FIFA": "MLT",
+        "IOC": "MLT",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Marshall Islands": {
+        "FIFA": "-----",
+        "IOC": "MHL",
+        "Region": "Oceania",
+        "Active": true
+    },
+    "Mauritania": {
+        "FIFA": "MTN",
+        "IOC": "MTN",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Mauritius": {
+        "FIFA": "MRI",
+        "IOC": "MRI",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Mexico": {
+        "FIFA": "MEX",
+        "IOC": "MEX",
+        "Region": "North America",
+        "Active": true
+    },
+    "Micronesia": {
+        "FIFA": "-----",
+        "IOC": "FSM",
+        "Region": "Oceania",
+        "Active": true
+    },
+    "Moldova": {
+        "FIFA": "MDA",
+        "IOC": "MDA",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Monaco": {
+        "FIFA": "-----",
+        "IOC": "MON",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Mongolia": {
+        "FIFA": "MGL",
+        "IOC": "MGL",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Montenegro": {
+        "FIFA": "MNE",
+        "IOC": "MNE",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Montserrat": {
+        "FIFA": "MSR",
+        "IOC": "-----",
+        "Region": "North America",
+        "Active": true
+    },
+    "Morocco": {
+        "FIFA": "MAR",
+        "IOC": "MAR",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Mozambique": {
+        "FIFA": "MOZ",
+        "IOC": "MOZ",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Myanmar": {
+        "FIFA": "MYA",
+        "IOC": "MYA",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Namibia": {
+        "FIFA": "NAM",
+        "IOC": "NAM",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Nauru": {
+        "FIFA": "-----",
+        "IOC": "NRU",
+        "Region": "Oceania",
+        "Active": true
+    },
+    "Nepal": {
+        "FIFA": "NEP",
+        "IOC": "NEP",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Netherland Antilles": {
+        "FIFA": "ANT",
+        "IOC": "AHO",
+        "Region": null,
+        "Active": false
+    },
+    "New Caledonia": {
+        "FIFA": "NCL",
+        "IOC": "-----",
+        "Region": "Oceania",
+        "Active": true
+    },
+    "New Hebrides (Today Vanuatu)": {
+        "FIFA": "HEB",
+        "IOC": "---",
+        "Region": null,
+        "Active": false
+    },
+    "New Zealand": {
+        "FIFA": "NZL",
+        "IOC": "NZL",
+        "Region": "Oceania",
+        "Active": true
+    },
+    "Nicaragua": {
+        "FIFA": "NCA",
+        "IOC": "NCA",
+        "Region": "North America",
+        "Active": true
+    },
+    "Niger": {
+        "FIFA": "NIG",
+        "IOC": "NIG",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Nigeria": {
+        "FIFA": "NGA",
+        "IOC": "NGR",
+        "Region": "Africa",
+        "Active": true
+    },
+    "North Vietnam": {
+        "FIFA": "VNO",
+        "IOC": "---",
+        "Region": null,
+        "Active": false
+    },
+    "North Yemen": {
+        "FIFA": "NYE",
+        "IOC": "YAR",
+        "Region": null,
+        "Active": false
+    },
+    "Northern Ireland": {
+        "FIFA": "NIR",
+        "IOC": "-----",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Norway": {
+        "FIFA": "NOR",
+        "IOC": "NOR",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Oman": {
+        "FIFA": "OMA",
+        "IOC": "OMA",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Pakistan": {
+        "FIFA": "PAK",
+        "IOC": "PAK",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Palau": {
+        "FIFA": "-----",
+        "IOC": "PLW",
+        "Region": "Oceania",
+        "Active": true
+    },
+    "Palestine": {
+        "FIFA": "PAL",
+        "IOC": "PLE",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Palestine (Today Israel/Jordan)": {
+        "FIFA": "PAL",
+        "IOC": "PAL",
+        "Region": null,
+        "Active": false
+    },
+    "Panama": {
+        "FIFA": "PAN",
+        "IOC": "PAN",
+        "Region": "North America",
+        "Active": true
+    },
+    "Papua New Guinea": {
+        "FIFA": "PNG",
+        "IOC": "PNG",
+        "Region": "Oceania",
+        "Active": true
+    },
+    "Paraguay": {
+        "FIFA": "PAR",
+        "IOC": "PAR",
+        "Region": "South America",
+        "Active": true
+    },
+    "Peru": {
+        "FIFA": "PER",
+        "IOC": "PER",
+        "Region": "South America",
+        "Active": true
+    },
+    "Philippines": {
+        "FIFA": "PHI",
+        "IOC": "PHI",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Poland": {
+        "FIFA": "POL",
+        "IOC": "POL",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Portugal": {
+        "FIFA": "POR",
+        "IOC": "POR",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Puerto Rico": {
+        "FIFA": "PUR",
+        "IOC": "PUR",
+        "Region": "North America",
+        "Active": true
+    },
+    "Qatar": {
+        "FIFA": "QAT",
+        "IOC": "QAT",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Republic of Ireland": {
+        "FIFA": "IRL",
+        "IOC": "IRL",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Rhodesia (Today Zimbabwe)": {
+        "FIFA": "RHO",
+        "IOC": "RHO",
+        "Region": null,
+        "Active": false
+    },
+    "Romania": {
+        "FIFA": "ROU",
+        "IOC": "ROU",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Russia": {
+        "FIFA": "RUS",
+        "IOC": "RUS",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Rwanda": {
+        "FIFA": "RWA",
+        "IOC": "RWA",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Saarland": {
+        "FIFA": "SAA",
+        "IOC": "SAA",
+        "Region": null,
+        "Active": false
+    },
+    "Samoa": {
+        "FIFA": "SAM",
+        "IOC": "SAM",
+        "Region": "Oceania",
+        "Active": true
+    },
+    "San Marino": {
+        "FIFA": "SMR",
+        "IOC": "SMR",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Sao Tome e Principe": {
+        "FIFA": "STP",
+        "IOC": "STP",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Saudi Arabia": {
+        "FIFA": "KSA",
+        "IOC": "KSA",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Scotland": {
+        "FIFA": "SCO",
+        "IOC": "-----",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Senegal": {
+        "FIFA": "SEN",
+        "IOC": "SEN",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Serbia": {
+        "FIFA": "SRB",
+        "IOC": "SRB",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Serbia & Montenegro": {
+        "FIFA": "SCG",
+        "IOC": "SCG",
+        "Region": null,
+        "Active": false
+    },
+    "Seychelles": {
+        "FIFA": "SEY",
+        "IOC": "SEY",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Sierra Leone": {
+        "FIFA": "SLE",
+        "IOC": "SLE",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Singapore": {
+        "FIFA": "SIN",
+        "IOC": "SIN",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Slovakia": {
+        "FIFA": "SVK",
+        "IOC": "SVK",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Slovenia": {
+        "FIFA": "SVN",
+        "IOC": "SLO",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Solomon Islands": {
+        "FIFA": "SOL",
+        "IOC": "SOL",
+        "Region": "Oceania",
+        "Active": true
+    },
+    "Somalia": {
+        "FIFA": "SOM",
+        "IOC": "SOM",
+        "Region": "Africa",
+        "Active": true
+    },
+    "South Africa": {
+        "FIFA": "RSA",
+        "IOC": "RSA",
+        "Region": "Africa",
+        "Active": true
+    },
+    "South Sudan": {
+        "FIFA": "SSD",
+        "IOC": "SSD",
+        "Region": "Africa",
+        "Active": true
+    },
+    "South Vietnam": {
+        "FIFA": "VSO",
+        "IOC": "VIE",
+        "Region": null,
+        "Active": false
+    },
+    "South Yemen": {
+        "FIFA": "SYE",
+        "IOC": "YMD",
+        "Region": null,
+        "Active": false
+    },
+    "Soviet Union": {
+        "FIFA": "URS",
+        "IOC": "URS",
+        "Region": null,
+        "Active": false
+    },
+    "Spain": {
+        "FIFA": "ESP",
+        "IOC": "ESP",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Sri Lanka": {
+        "FIFA": "SRI",
+        "IOC": "SRI",
+        "Region": "Asia",
+        "Active": true
+    },
+    "St Kitts & Nevis": {
+        "FIFA": "SKN",
+        "IOC": "SKN",
+        "Region": "North America",
+        "Active": true
+    },
+    "St Lucia": {
+        "FIFA": "LCA",
+        "IOC": "LCA",
+        "Region": "North America",
+        "Active": true
+    },
+    "St Vincent & The Grenadines": {
+        "FIFA": "VIN",
+        "IOC": "VIN",
+        "Region": "North America",
+        "Active": true
+    },
+    "Sudan": {
+        "FIFA": "SDN",
+        "IOC": "SUD",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Surinam": {
+        "FIFA": "SUR",
+        "IOC": "SUR",
+        "Region": "North America",
+        "Active": true
+    },
+    "Swaziland": {
+        "FIFA": "SWZ",
+        "IOC": "SWZ",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Sweden": {
+        "FIFA": "SWE",
+        "IOC": "SWE",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Switzerland": {
+        "FIFA": "SUI",
+        "IOC": "SUI",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Syria": {
+        "FIFA": "SYR",
+        "IOC": "SYR",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Tahiti": {
+        "FIFA": "TAH",
+        "IOC": "-----",
+        "Region": "Oceania",
+        "Active": true
+    },
+    "Taiwan (Today Chinese Taipei)": {
+        "FIFA": "TAI",
+        "IOC": "TAI",
+        "Region": null,
+        "Active": false
+    },
+    "Tajikistan": {
+        "FIFA": "TJK",
+        "IOC": "TJK",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Tanganyika (Today part of Tanzania)": {
+        "FIFA": "TAA",
+        "IOC": "TAN",
+        "Region": null,
+        "Active": false
+    },
+    "Tanzania": {
+        "FIFA": "TAN",
+        "IOC": "TAN",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Thailand": {
+        "FIFA": "THA",
+        "IOC": "THA",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Togo": {
+        "FIFA": "TOG",
+        "IOC": "TOG",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Tonga": {
+        "FIFA": "TGA",
+        "IOC": "TGA",
+        "Region": "Oceania",
+        "Active": true
+    },
+    "Trinidad & Tobago": {
+        "FIFA": "TRI",
+        "IOC": "TRI",
+        "Region": "North America",
+        "Active": true
+    },
+    "Tunisia": {
+        "FIFA": "TUN",
+        "IOC": "TUN",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Turkey": {
+        "FIFA": "TUR",
+        "IOC": "TUR",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Turkmenistan": {
+        "FIFA": "TKM",
+        "IOC": "TKM",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Turks & Caicos Islands": {
+        "FIFA": "TCA",
+        "IOC": "-----",
+        "Region": "North America",
+        "Active": true
+    },
+    "Tuvalu": {
+        "FIFA": "-----",
+        "IOC": "TUV",
+        "Region": "Oceania",
+        "Active": true
+    },
+    "Uganda": {
+        "FIFA": "UGA",
+        "IOC": "UGA",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Ukraine": {
+        "FIFA": "UKR",
+        "IOC": "UKR",
+        "Region": "Europe",
+        "Active": true
+    },
+    "United Arab Emirates": {
+        "FIFA": "UAE",
+        "IOC": "UAE",
+        "Region": "Asia",
+        "Active": true
+    },
+    "United Arab Republic": {
+        "FIFA": "UAR",
+        "IOC": "RAU",
+        "Region": null,
+        "Active": false
+    },
+    "United States Virgin Islands": {
+        "FIFA": "VIR",
+        "IOC": "ISV",
+        "Region": "North America",
+        "Active": true
+    },
+    "United States of America": {
+        "FIFA": "USA",
+        "IOC": "USA",
+        "Region": "North America",
+        "Active": true
+    },
+    "Upper Volta (Today Burkina Faso)": {
+        "FIFA": "UPV",
+        "IOC": "UPV",
+        "Region": null,
+        "Active": false
+    },
+    "Uruguay": {
+        "FIFA": "URU",
+        "IOC": "URU",
+        "Region": "South America",
+        "Active": true
+    },
+    "Uzbekistan": {
+        "FIFA": "UZB",
+        "IOC": "UZB",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Vanuatu": {
+        "FIFA": "VAN",
+        "IOC": "VAN",
+        "Region": "Oceania",
+        "Active": true
+    },
+    "Vatican": {
+        "FIFA": "-----",
+        "IOC": "VAT",
+        "Region": "Europe",
+        "Active": true
+    },
+    "Venezuela": {
+        "FIFA": "VEN",
+        "IOC": "VEN",
+        "Region": "South America",
+        "Active": true
+    },
+    "Vietnam": {
+        "FIFA": "VIE",
+        "IOC": "VIE",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Wales": {
+        "FIFA": "WAL",
+        "IOC": "-----",
+        "Region": "Europe",
+        "Active": true
+    },
+    "West Germany": {
+        "FIFA": "FRG",
+        "IOC": "FRG",
+        "Region": null,
+        "Active": false
+    },
+    "Western Samoa (Today Samoa)": {
+        "FIFA": "WSM",
+        "IOC": "SAM",
+        "Region": null,
+        "Active": false
+    },
+    "Yemen": {
+        "FIFA": "YEM",
+        "IOC": "YEM",
+        "Region": "Asia",
+        "Active": true
+    },
+    "Yugoslavia": {
+        "FIFA": "YUG",
+        "IOC": "YUG",
+        "Region": null,
+        "Active": false
+    },
+    "Zaire (Today Congo DR)": {
+        "FIFA": "ZAI",
+        "IOC": "ZAI",
+        "Region": null,
+        "Active": false
+    },
+    "Zambia": {
+        "FIFA": "ZAM",
+        "IOC": "ZAM",
+        "Region": "Africa",
+        "Active": true
+    },
+    "Zimbabwe": {
+        "FIFA": "ZIM",
+        "IOC": "ZIM",
+        "Region": "Africa",
+        "Active": true
+    }
+}

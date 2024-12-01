@@ -37,19 +37,19 @@ print(historical_matches)
 
 historical_matches.to_csv("historical_scoreboards.csv")
 
-def dataframe_to_scrollable_table(df, max_height=300):
-    html_table = df.to_html(index=False, escape=False)  # Generate HTML table without escaping content
-    scrollable_html = f"""
-    <div style="max-height: {max_height}px; overflow-y: auto; border: 1px solid #ccc;">
-        {html_table}
-    </div>
-    """
-    return scrollable_html
+# Convert DataFrame to HTML
+html_table = historical_matches.to_html(index=False)
 
-# Example usage with a DataFrame (replace `historical_matches` with your DataFrame)
-scrollable_table = dataframe_to_scrollable_table(historical_matches)
+# Wrap the table in a div for horizontal scrolling
+scrollable_table = f"""
+<div style="overflow-x: auto;">
+  {html_table}
+</div>
+"""
 
-# Save to a markdown file
-with open("table.md", "a") as file:
-    file.write("\n## Historical Matches with FIFA Scoreline Condition\n")
+# Save to a Markdown file
+with open('table.md', 'a') as file:
+    file.write('\n## Your Table Title\n')
     file.write(scrollable_table)
+
+print("Written")
